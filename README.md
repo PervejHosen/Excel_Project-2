@@ -1,4 +1,12 @@
-# Excel Project: HR Analytics Dashboard
+# Project: Excel
+## HR Analytics Dashboard
+
+### Task perform:
+* Clean Data 
+* Pivot table analyze 
+* Pivot Chart
+* KPI
+* Dasboard Making 
 
 ## Findings: 
 ### Consolidated data
